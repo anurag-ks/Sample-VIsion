@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Image Analysis">
+        <menu>
+            <item
+                android:id="@+id/nav_image_label"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="Image Labeling" />
+            <item
+                android:id="@+id/nav_text_recog"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="Text Recognition" />
+            <item
+                android:id="@+id/nav_document"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="Read Document" />
+            <item
+                android:id="@+id/nav_landmark"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Landmark" />
+        </menu>
+    </item>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Feedback" />
+        </menu>
+    </item>
+
+</menu>

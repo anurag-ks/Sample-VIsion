@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "736080041838",
+    "firebase_url": "https://vision-b81cb.firebaseio.com",
+    "project_id": "vision-b81cb",
+    "storage_bucket": "vision-b81cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736080041838:android:e80d8deff5123c29",
+        "android_client_info": {
+          "package_name": "project.vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736080041838-jtnac2opc5la1u0opn6hidfpfoh8bs3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD_k44S9yK1z5nDfrCNH-JoGoOg8b1sdE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

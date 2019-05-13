@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Vision</string>
+    <string name="action_settings">Settings</string>
+    <string name="labeling_details">Press the + button to start.</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="title_activity_text_recog">TextRecogActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">VISION</string>
+    <string name="nav_header_subtitle">Image analysis</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="error_msg">Could not recognize the text</string>
+    <string name="info_search_text">Click on the identified text items to search more about them</string>
+    <string name="title_activity_landmark">Landmarks</string>
+    <string name="title_activity_feedback">Feedback</string>
+    <string name="title_activity_document">Read Document</string>
+    <string name="title_activity_bottom_nagvigation">BottomNagvigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_index">IndexActivity</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+
+    <string name="app_intro_details">Image analysis is the extraction of meaningful information from images; mainly from
+digital images by means of digital image processing techniques. This Image Analysis
+Application helps by recognizing wide arrangements of articles in your pictures, from
+blooms, creatures, or transportation to a huge number of other question classes
+normally found inside pictures. Google cloud Vision API enhances after some time as
+new ideas are presented and precision is progressed. With API’s Vision, you can
+make custom models that features explicit ideas from your pictures.</string>
+    <string name="google_maps_key">AIzaSyBN1yLbw2SDfCYh4HfQVdt9yl9qRezm5Pw</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+</resources>
